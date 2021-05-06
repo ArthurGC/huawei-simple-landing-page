@@ -59,7 +59,7 @@ p {
 }
 
 .main_container .header {
-  background-image: linear-gradient(160deg, rgba(0, 147, 233, 0.5) 0%, rgba(128, 208, 199, 0.2) 100%), url(/img/background.jpg);
+  background-image: linear-gradient(160deg, rgba(0, 147, 233, 0.5) 0%, rgba(128, 208, 199, 0.2) 100%), url(https://raw.githubusercontent.com/ArthurGC/huawei-simple-landing-page/main/img/background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   padding: 4em 2em;
